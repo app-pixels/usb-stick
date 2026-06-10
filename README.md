@@ -1,3 +1,5 @@
+> Part of [**app-pixels.com**](https://www.app-pixels.com) — browse + flash this app at [`/apps/usb-stick`](https://www.app-pixels.com/apps/usb-stick).
+
 # usb-stick
 
 **USB Stick** · v1.0.0
